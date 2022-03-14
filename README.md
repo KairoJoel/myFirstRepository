@@ -1,2 +1,2 @@
 # myFirstRepository
-Repositorio for to practice Data Science Program
+Repository for to practice Data Science Program
